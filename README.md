@@ -187,7 +187,9 @@ Use **Content-Based Filtering** leveraging:
 - **Production-ready**: Real-time + batch pipelines integrated
 - **KPIs defined**: To measure user impact and business success
 
+### 🤖 Sample Recommendations Output (Hybrid Model)
 
+<img src="images/sample_recommendations.png" alt="Recommendation Sample" width="600"/>
 
 👨‍💻 Author
 
