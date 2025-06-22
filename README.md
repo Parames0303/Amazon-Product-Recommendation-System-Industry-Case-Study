@@ -49,12 +49,12 @@ This project builds and evaluates a **hybrid recommendation engine** for an e-co
 
 Visualized:
 - Most reviewed products
--   <img src="images/most_reviewed_products.png" alt="Most Reviewed Products" width="600"/>
+-   <img src="images/Most Reviewed Products.png" alt="Most Reviewed Products" width="600"/>
 - Top categories by product count
 - Average rating per category
-- <img src="images/avg_rating_per_category.png" alt="Average Rating by Category" width="600"/>
+- <img src="images/Average Rating by Category.png" alt="Average Rating by Category" width="600"/>
 - Discount vs actual price correlation
-- <img src="images/discount_vs_price.png" alt="Discount vs Price Correlation" width="600"/>
+- <img src="images/Discount vs Price Correlation.png" alt="Discount vs Price Correlation" width="600"/>
 
 🧠 **Insights:**
 1. Some high-rated products have very few reviews (opportunity for exposure)
