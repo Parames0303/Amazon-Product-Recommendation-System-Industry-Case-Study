@@ -1,5 +1,4 @@
-# Amazon-Product-Recommendation-System-Industry-Case-Study
-Amazon Product Recommendation System —Industry Case Study
+
 # 🛍️ Amazon Product Recommendation System — Industry Case Study
 
 This project builds and evaluates a **hybrid recommendation engine** for an e-commerce platform using both **content-based** and **collaborative filtering** techniques.
